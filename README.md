@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahmed-bsd
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN technologies
+- 👀 I’m interested in embedded system & Web development
 
 <!---
 ahmed-bsd/ahmed-bsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
